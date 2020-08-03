@@ -19,18 +19,17 @@ To minimise spam and phising attacks and any kind of digital frauds.
 1. Python3 can be installed from their official site https://www.python.org/ . Or you can use anaconda environment.
 
 2. Pandas can be installed by
-
-```conda install -c anaconda pandas``` 
+```conda install -c anaconda pandas
+``` 
 or
 ```pip3 install pandas
 ```
 3. Scikit-Learn can be installed by 
-
-```conda install -c anaconda scikit-learn```
+```conda install -c anaconda scikit-learn
+```
 or
 ```pip3 install -U scikit-learn
 ```
-
 ## Bugs and Improvements :-
 
 - No known bugs.
