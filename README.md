@@ -21,20 +21,17 @@ To minimise spam and phising attacks and any kind of digital frauds.
 2. Pandas can be installed by
 
 ```
-conda install -c anaconda pandas
-```
+conda install -c anaconda pandas ```
 or 
 ```
 pip3 install pandas
 ```
 3. Scikit-Learn can be installed by 
 ```
-conda install -c anaconda scikit-learn
-```
+conda install -c anaconda scikit-learn```
 or
 ```pip3 install -U scikit-learn
 ```
-
 
 ## Bugs and Improvements :-
 
